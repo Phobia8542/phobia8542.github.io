@@ -1,5 +1,8 @@
-body {
+h1 {
     margin: auto;
-    background-color: lightgray;
+    background-color: green;
     text-align: center;
+    font-family: 'Kolker Brush', cursive;
+    font-size: 70px;
+
 }
